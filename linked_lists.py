@@ -366,4 +366,4 @@ def sortList(head):
     left = sortList(head)
     right = sortList(mid)
     
-    return merge(left, right
+    return merge(left, right)
