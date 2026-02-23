@@ -339,7 +339,6 @@ def connectNextRight(root):
         prev_node.next = None
     
     return root
-#Shortest path in a tree
 
 
 #check if tree is complete 
